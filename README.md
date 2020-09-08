@@ -6,11 +6,11 @@
 
 ## Olá Mundo! 👋
 
-#### Meu nome é Gideon Fernandes, estudante de desenvolvimento Full Stack Web e Mobile, com foco em tecnologias modernas.
-Meu objetivo principal além de se destacar como desenvolvedor é de poder contribuir positivamente com a sociedade utilizando de minhas habilidades e conhecimento em TI.
+#### Meu nome é Gideon Fernandes, sou desenvolvedor Full Stack Júnior com foco nas tecnologias modernas Node.js, ReactJS e React Native.
 
-- :office_worker: Em busca de uma oportunidade profissional de nível Junior**
-- :blue_heart: Principais Techs: React.js, Node.js, MongoDB e Bootstrap.
-- :books: Estudando: React Native, TypeScript e Docker :heart:
+Tenho como objetivo de conquistar meu primeiro emprego como desenvolvedor contribuindo positivamente no desenvolvimento e implementação de soluções assertivas e escaláveis para a empresa contratante, sempre evoluir e crescer junto com a mesma, adquirir o conhecimento necessário para estar apto a participar de ponta a ponta nos processos de análise e desenvolvimento.
+
+- :blue_heart: Principais Techs e habilidades: Node.js, ReactJS, React Native, MongoDB e inglês avançado (read & listen)
+- :books: Estudando/Aprimorando: React Native & Typescript
 
 ---
