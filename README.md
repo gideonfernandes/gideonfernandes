@@ -6,7 +6,7 @@
 
 ## Olá Mundo! 👋
 
-#### Prazer, sou desenvolvedor Full Stack Júnior com foco nas tecnologias modernas Node.js, ReactJS e React Native.
+#### Prazer... Sou desenvolvedor Full Stack Júnior com foco nas tecnologias modernas Node.js, ReactJS e React Native.
 
 Tenho como objetivo de conquistar meu primeiro emprego como desenvolvedor contribuindo positivamente no desenvolvimento e implementação de soluções assertivas e escaláveis para a empresa contratante, sempre evoluir e crescer junto com a mesma, adquirir o conhecimento necessário para estar apto a participar de ponta a ponta nos processos de análise e desenvolvimento.
 
