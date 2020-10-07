@@ -11,6 +11,6 @@
 Tenho como objetivo de conquistar meu primeiro emprego como desenvolvedor contribuindo positivamente no desenvolvimento e implementação de soluções assertivas e escaláveis para a empresa contratante, sempre evoluir e crescer junto com a mesma, adquirir o conhecimento necessário para estar apto a participar de ponta a ponta nos processos de análise e desenvolvimento.
 
 - :blue_heart: Principais Techs e habilidades: Node.js, ReactJS, React Native, MongoDB e inglês avançado (read & listen)
-- :books: Estudando/Aprimorando: React Native & Typescript
+- :books: Estudando/Aprimorando: React Native, Typescript & C#
 
 ---
