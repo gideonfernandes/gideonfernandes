@@ -6,11 +6,11 @@
 
 ## Olá Mundo! 👋
 
-#### Prazer... Sou desenvolvedor Full Stack Júnior com foco nas tecnologias modernas Node.js, ReactJS e React Native.
+#### Prazer... Sou desenvolvedor Full Stack Júnior com foco nas tecnologias modernas.
 
-Tenho como objetivo de conquistar meu primeiro emprego como desenvolvedor contribuindo positivamente no desenvolvimento e implementação de soluções assertivas e escaláveis para a empresa contratante, sempre evoluir e crescer junto com a mesma, adquirir o conhecimento necessário para estar apto a participar de ponta a ponta nos processos de análise e desenvolvimento.
+Tenho como objetivo principal, contribuir positivamente no desenvolvimento e implementação de soluções assertivas e escaláveis para a empresa contratante, sempre evoluir e crescer junto com a mesma, adquirir o conhecimento necessário para estar apto a participar de ponta a ponta nos processos de análise e desenvolvimento.
 
-- :blue_heart: Principais Techs e habilidades: Node.js, ReactJS, React Native, MongoDB e inglês avançado (read & listen)
-- :books: Estudando/Aprimorando: React Native, Typescript & C#
+- :blue_heart: Principais Techs e habilidades: Elixir/Phoenix, Ruby on Rails, Typescript, ReactJS, React Native e inglês avançado (read & listen)
+- :books: Estudando/Aprimorando: React Native, Typescript & Phoenix.
 
 ---
